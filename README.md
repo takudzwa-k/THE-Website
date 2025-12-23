@@ -1,3 +1,12 @@
-# THE-Website
-this is going to take a while.
-About: A website to locate NGOs/Orphanages/Senior Centres near me or an area/pin code that I can go to and donate stuff too.
+# ConnectForGood
+
+> **"Helping You Help Others."**
+
+## 🚀 The Mission
+I am building a **website** that can locate NGOs/Orphanages/Senioe Centes near you or an area
+Organisations without a website or social media presence can manually submit their details to be included in the directory
+
+**Timeline:**
+**Strategy:**
+
+---
